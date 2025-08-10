@@ -1,5 +1,4 @@
 Live Demo 🌐
-You can view a live version of this app deployed on Streamlit Community Cloud here:
 https://fraud-detection23.streamlit.app/
 -----
 
@@ -58,4 +57,5 @@ To run this application on your local machine, follow these steps:
     The app will automatically open in your web browser.
 
 -----
+
 
